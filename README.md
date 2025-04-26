@@ -1,30 +1,94 @@
-# Modern landing page
+# Blackheart Labs
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+**AI Tools and Resources for Solopreneurs**
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/darrylrachels-projects/v0-modern-landing-page)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/A5stI3smEKF)
+Blackheart Labs helps solopreneurs discover, implement, and master the best AI tools to automate, scale, and thrive — without the overwhelm. Our mission is simple: work smarter, not harder.
 
-## Overview
+🔗 **Live Site:** [https://blackheartlabs.com](https://blackheartlabs.com)
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+---
 
-## Deployment
+## 🚀 Project Overview
 
-Your project is live at:
+Blackheart Labs is a modern, high-performance website built with:
+- [Next.js 14 (App Router)](https://nextjs.org/)
+- [React 18](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/) for styling
+- Hosted on [Vercel](https://vercel.com/)
 
-**[https://vercel.com/darrylrachels-projects/v0-modern-landing-page](https://vercel.com/darrylrachels-projects/v0-modern-landing-page)**
+The site features:
+- Clean, conversion-focused landing page
+- Dynamic blog to publish AI tool reviews, guides, and resources
+- Integrated email newsletter (via Omnisend)
+- Affiliate partnerships recommending trusted tools
+- Optimized SEO metadata for organic reach
 
-## Build your app
+---
 
-Continue building your app on:
+## 🛠️ Tech Stack
 
-**[https://v0.dev/chat/projects/A5stI3smEKF](https://v0.dev/chat/projects/A5stI3smEKF)**
+- **Framework:** Next.js 14
+- **Language:** JavaScript
+- **Styling:** Tailwind CSS
+- **Forms:** Omnisend (Newsletter Integration)
+- **Hosting:** Vercel
+- **Version Control:** GitHub
 
-## How It Works
+---
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## 📂 Project Structure
+
+/public /src /components /pages /app /styles README.md package.json
+
+
+- `/components` – Reusable UI elements (Header, Footer, BlogCards, etc.)
+- `/pages` – Static and dynamic pages (Home, Blog, About)
+- `/styles` – Global styles and Tailwind customizations
+- `/public` – Static assets (images, favicon, etc.)
+
+---
+
+## 📖 Development Setup
+
+git clone https://github.com/darrylrachel/blackheart-labs.git
+
+2. Navigate into the project directory:
+
+cd blackheart-labs
+
+3. Install dependencies:
+
+npm install
+
+4. Start the development server:
+
+npm run dev
+
+
+Application will be running at [http://localhost:3000](http://localhost:3000).
+
+---
+
+## 📈 Future Enhancements
+
+- Launch of Blackheart Coach (AI-Powered Investment Platform)
+- Advanced email automation with Omnisend
+- Blog search, tagging, and filters
+- Exclusive members-only content and courses
+- Expanded affiliate product network
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👤 About
+
+Built and maintained by **Darryl Rachel** — entrepreneur, solopreneur, and AI advocate.  
+Helping solopreneurs automate smarter, scale faster, and thrive longer.
+
+---
+
