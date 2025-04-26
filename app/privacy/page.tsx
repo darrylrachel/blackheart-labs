@@ -22,7 +22,7 @@ export default function PrivacyPolicyPage() {
               <p className="text-lg">Last Updated: April 26, 2025</p>
 
               <p>
-                At Blackheart Labs, we take your privacy seriously. This Privacy Policy explains how we collect, use,
+                At MomentumAI, we take your privacy seriously. This Privacy Policy explains how we collect, use,
                 disclose, and safeguard your information when you visit our website or use our services.
               </p>
 
@@ -142,7 +142,7 @@ export default function PrivacyPolicyPage() {
                 </a>
               </p>
               <p>
-                Blackheart Labs
+                MomentumAI
                 <br />
                 123 AI Avenue
                 <br />

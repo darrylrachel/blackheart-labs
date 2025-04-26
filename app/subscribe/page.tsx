@@ -11,7 +11,7 @@ export default function SubscribePage() {
         {/* Hero Section */}
         <AnimationWrapper>
           <div className="text-center mb-16">
-            <h1 className="text-4xl md:text-5xl font-bold text-charcoal mb-4">Join Blackheart Labs</h1>
+            <h1 className="text-4xl md:text-5xl font-bold text-charcoal mb-4">Join MomentumAI</h1>
             <p className="text-text-secondary text-lg max-w-2xl mx-auto">
               Get exclusive access to premium AI insights, tools, and strategies to transform your solopreneur journey
             </p>
@@ -365,7 +365,7 @@ export default function SubscribePage() {
                 </div>
 
                 <p className="text-text-secondary mb-4">
-                  "As someone who was skeptical about AI, the practical approach at Blackheart Labs changed my
+                  "As someone who was skeptical about AI, the practical approach at MomentumAI changed my
                   perspective. The community is incredibly supportive, and I've found tools that actually make sense for
                   my coaching business."
                 </p>

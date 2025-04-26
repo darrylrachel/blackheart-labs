@@ -10,7 +10,7 @@ const AboutSection = () => {
           <div className="bg-gray-50 border border-gray-100 max-w-4xl mx-auto text-center p-8 md:p-12 rounded-2xl relative overflow-hidden shadow-sm">
             <div className="absolute inset-0 bg-electric-blue/5 z-[-1]"></div>
 
-            <h2 className="text-3xl md:text-4xl font-bold text-charcoal mb-6">Why Blackheart Labs?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-charcoal mb-6">Why MomentumAI?</h2>
             <p className="text-lg md:text-xl text-text-secondary mb-8 max-w-2xl mx-auto">
               I'm a solopreneur simplifying AI adoption. Discover the tools that help you work less and earn more.
             </p>

@@ -22,7 +22,7 @@ export default function TermsOfServicePage() {
               <p className="text-lg">Last Updated: April 26, 2025</p>
 
               <p>
-                Please read these Terms of Service ("Terms") carefully before using the Blackheart Labs website and
+                Please read these Terms of Service ("Terms") carefully before using the MomentumAI website and
                 services.
               </p>
 
@@ -36,12 +36,12 @@ export default function TermsOfServicePage() {
               <h2 className="text-2xl font-bold text-charcoal mt-8 mb-4">2. Intellectual Property</h2>
               <p>
                 The content on our website, including text, graphics, logos, images, audio clips, digital downloads,
-                data compilations, and software, is the property of Blackheart Labs or its content suppliers and is
+                data compilations, and software, is the property of MomentumAI or its content suppliers and is
                 protected by international copyright laws.
               </p>
               <p>
                 Our trademarks and trade dress may not be used in connection with any product or service without the
-                prior written consent of Blackheart Labs.
+                prior written consent of MomentumAI.
               </p>
 
               <h2 className="text-2xl font-bold text-charcoal mt-8 mb-4">3. User Accounts</h2>
@@ -118,7 +118,7 @@ export default function TermsOfServicePage() {
 
               <h2 className="text-2xl font-bold text-charcoal mt-8 mb-4">7. Limitation of Liability</h2>
               <p>
-                In no event shall Blackheart Labs, its directors, employees, partners, agents, suppliers, or affiliates
+                In no event shall MomentumAI, its directors, employees, partners, agents, suppliers, or affiliates
                 be liable for any indirect, incidental, special, consequential, or punitive damages, including without
                 limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from:
               </p>
@@ -171,7 +171,7 @@ export default function TermsOfServicePage() {
                 </a>
               </p>
               <p>
-                Blackheart Labs
+                MomentumAI
                 <br />
                 123 AI Avenue
                 <br />
