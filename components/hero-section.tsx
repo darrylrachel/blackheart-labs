@@ -25,10 +25,10 @@ const HeroSection = () => {
         </AnimationWrapper>
 
         <AnimationWrapper type="fade-in" delay={500}>
-          <div className="flex flex-col sm:flex-row gap-5 justify-center">
+          <div className="flex flex-col sm:flex-row gap-5 justify-center w-full">
             <Link href="/tools">
               <Button
-                className="bg-electric-blue hover:bg-electric-blue/90 text-white text-lg px-8 py-6 h-auto hover-scale shadow-lg shadow-electric-blue/20"
+                className="w-full bg-electric-blue hover:bg-electric-blue/90 text-white text-lg px-8 py-6 h-auto hover-scale shadow-lg shadow-electric-blue/20"
                 size="lg"
               >
                 Explore Tools
@@ -36,7 +36,7 @@ const HeroSection = () => {
             </Link>
             <Button
               onClick={() => setIsModalOpen(true)}
-              className="bg-highlight-yellow hover:bg-highlight-yellow/90 text-charcoal text-lg px-8 py-6 h-auto hover-scale shadow-lg shadow-highlight-yellow/20"
+              className="w-full bg-highlight-yellow hover:bg-highlight-yellow/90 text-charcoal text-lg px-8 py-6 h-auto hover-scale shadow-lg shadow-highlight-yellow/20"
               size="lg"
             >
               Subscribe
