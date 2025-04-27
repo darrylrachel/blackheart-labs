@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 md:px-6">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-electric-blue font-bold text-xl mb-4">Blackheart Labs</h3>
+            <h3 className="text-electric-blue font-bold text-xl mb-4">MomentumAI</h3>
             <p className="text-text-secondary mb-4 max-w-md">
               Helping solopreneurs find the best AI tools to automate, scale, and thrive in the digital economy.
             </p>
@@ -96,7 +96,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-200 mt-10 pt-6 text-center text-text-secondary">
-          <p>Copyright © {new Date().getFullYear()} Blackheart Labs. All rights reserved.</p>
+          <p>Copyright © {new Date().getFullYear()} MomentumAI. All rights reserved.</p>
         </div>
       </div>
     </footer>
