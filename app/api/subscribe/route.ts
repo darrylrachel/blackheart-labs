@@ -30,8 +30,15 @@ export async function POST(request: Request) {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        identifiers: [{ type: "email", id: email }],
-        status: "subscribed",
+        identifiers: [
+          {
+            type: "email",
+            id: email,
+          },
+        ],
+        emailChannel: {
+          status: "subscribed",
+        },
       }),
     });
 
