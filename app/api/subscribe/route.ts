@@ -1,5 +1,8 @@
 import { NextResponse } from 'next/server';
 
+console.log('OMNISEND_API_KEY:', process.env.OMNISEND_API_KEY);
+
+
 export async function POST(request: Request) {
   const { email } = await request.json();
 
