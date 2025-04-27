@@ -49,12 +49,15 @@ export default function SubscribePage() {
                   </li>
                 </ul>
 
-                <form className="flex flex-col sm:flex-row gap-3">
+                <div id="omnisend-embedded-v2-680d7faae4cd0ff79afc4fe2">
+                  <form className="flex flex-col sm:flex-row gap-3">
                   <Input type="email" placeholder="Enter your email" className="bg-white border-gray-200" required />
                   <Button type="submit" className="bg-electric-blue hover:bg-electric-blue/90 text-white">
                     Subscribe Free
                   </Button>
                 </form>
+                </div>
+                
               </div>
 
               {/* Premium Tier */}
@@ -216,7 +219,7 @@ export default function SubscribePage() {
               <div className="bg-gray-50 rounded-xl p-6 md:p-8">
                 <h2 className="text-2xl font-bold text-charcoal mb-6">Have Questions?</h2>
 
-                <form className="space-y-4">
+                <form className="space-y-4" action={"https://formspree.io/f/xanonaog"} method="POST">
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                     <div>
                       <label htmlFor="name" className="block text-sm font-medium text-text-secondary mb-1">
@@ -262,7 +265,7 @@ export default function SubscribePage() {
                     <Mail className="h-4 w-4 mr-2 text-electric-blue" />
                     Or email us directly at{" "}
                     <a href="mailto:hello@blackheartlabs.com" className="text-electric-blue ml-1">
-                      hello@blackheartlabs.com
+                      hello@momentumai.com
                     </a>
                   </p>
                 </div>

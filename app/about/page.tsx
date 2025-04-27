@@ -38,10 +38,10 @@ export default function AboutPage() {
 
             <div className="md:col-span-7">
               <AnimationWrapper delay={200}>
-                <h2 className="text-3xl font-bold text-charcoal mb-4">Alex Mitchell</h2>
+                <h2 className="text-3xl font-bold text-charcoal mb-4">Darryl</h2>
                 <p className="text-electric-blue font-medium mb-4">Founder & AI Consultant</p>
                 <p className="text-text-secondary mb-6">
-                  After spending 10+ years in tech startups and seeing how AI was transforming businesses, I decided to
+                  After spending 3+ years in tech startups and seeing how AI was transforming businesses, I decided to
                   focus on helping solopreneurs harness these powerful tools. I've personally tested hundreds of AI
                   solutions and built systems that save me 20+ hours per week.
                 </p>
@@ -54,7 +54,7 @@ export default function AboutPage() {
                     className="flex items-center text-text-secondary hover:text-electric-blue transition-colors"
                   >
                     <Twitter className="h-5 w-5 mr-2" />
-                    <span>@alexmitchell</span>
+                    <span>@momentumai</span>
                   </a>
                   <a
                     href="https://linkedin.com"
@@ -63,14 +63,14 @@ export default function AboutPage() {
                     className="flex items-center text-text-secondary hover:text-electric-blue transition-colors"
                   >
                     <Linkedin className="h-5 w-5 mr-2" />
-                    <span>Alex Mitchell</span>
+                    <span>Darryl Rachel</span>
                   </a>
                   <a
-                    href="mailto:alex@blackheartlabs.com"
+                    href="mailto:hello@momentumai.com"
                     className="flex items-center text-text-secondary hover:text-electric-blue transition-colors"
                   >
                     <Mail className="h-5 w-5 mr-2" />
-                    <span>alex@blackheartlabs.com</span>
+                    <span>hello@momentumai.com</span>
                   </a>
                 </div>
 

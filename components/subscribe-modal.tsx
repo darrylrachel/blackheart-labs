@@ -92,7 +92,7 @@ const SubscribeModal = ({ isOpen, onClose }: SubscribeModalProps) => {
                 </p>
               </div>
 
-              <form onSubmit={handleSubmit} className="space-y-4">
+              <div id="omnisend-embedded-v2-680d7faae4cd0ff79afc4fe2">
                 <div>
                   <label htmlFor="email" className="block text-sm font-medium text-text-secondary mb-1">
                     Email Address
@@ -125,7 +125,43 @@ const SubscribeModal = ({ isOpen, onClose }: SubscribeModalProps) => {
                 </Button>
 
                 <p className="text-xs text-center text-muted-gray">We respect your privacy. Unsubscribe at any time.</p>
-              </form>
+
+              </div>
+
+              {/* <form onSubmit={handleSubmit} className="space-y-4">
+                <div>
+                  <label htmlFor="email" className="block text-sm font-medium text-text-secondary mb-1">
+                    Email Address
+                  </label>
+                  <Input
+                    id="email"
+                    type="email"
+                    placeholder="you@example.com"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                    required
+                    className="bg-white border-gray-200"
+                  />
+                </div>
+
+                {error && <p className="text-red-500 text-sm">{error}</p>}
+
+                <Button
+                  type="submit"
+                  className="w-full bg-highlight-yellow hover:bg-highlight-yellow/90 text-charcoal font-medium"
+                  disabled={isSubmitting}
+                >
+                  {isSubmitting ? (
+                    "Subscribing..."
+                  ) : (
+                    <>
+                      Subscribe <Send className="ml-2 h-4 w-4" />
+                    </>
+                  )}
+                </Button>
+
+                <p className="text-xs text-center text-muted-gray">We respect your privacy. Unsubscribe at any time.</p>
+              </form> */}
             </>
           )}
         </div>
