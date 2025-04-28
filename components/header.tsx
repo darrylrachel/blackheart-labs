@@ -28,7 +28,7 @@ const Header = () => {
     >
       <div className="container mx-auto px-4 md:px-6 flex items-center justify-between">
         <Link href="/" className="flex items-center">
-          <h1 className="text-electric-blue font-bold text-2xl">MomentumAI</h1>
+          <h1 className="text-electric-blue font-bold text-2xl">Elevatr Labs</h1>
         </Link>
 
         {/* Desktop Navigation */}

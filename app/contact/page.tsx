@@ -198,12 +198,12 @@ export default function ContactPage() {
                       <div>
                         <h3 className="font-bold text-charcoal mb-1">Email</h3>
                         <p className="text-text-secondary mb-1">General Inquiries:</p>
-                        <a href="mailto:hello@blackheartlabs.com" className="text-electric-blue hover:underline">
-                          hello@blackheartlabs.com
+                        <a href="mailto:hello@ElevatrLabs.com" className="text-electric-blue hover:underline">
+                          hello@ElevatrLabs.com
                         </a>
                         <p className="text-text-secondary mt-2 mb-1">Support:</p>
-                        <a href="mailto:support@momentum.ai" className="text-electric-blue hover:underline">
-                          support@momentum.ai
+                        <a href="mailto:support@ElevatrLabs.com" className="text-electric-blue hover:underline">
+                          support@ElevatrLabs.com
                         </a>
                       </div>
                     </div>
@@ -228,7 +228,7 @@ export default function ContactPage() {
                       <div>
                         <h3 className="font-bold text-charcoal mb-1">Address</h3>
                         <p className="text-text-secondary">
-                          MomentumAI
+                          Elevatr Labs
                           <br />
                           123 AI Avenue
                           <br />
@@ -347,7 +347,7 @@ export default function ContactPage() {
                     allowFullScreen={true}
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
-                    title="MomentumAI Office Location"
+                    title="Elevatr Labs Office Location"
                   ></iframe>
                 </div>
               </div>
@@ -365,7 +365,7 @@ export default function ContactPage() {
                     <h3 className="text-lg font-bold text-charcoal mb-2">What's the best way to contact you?</h3>
                     <p className="text-text-secondary">
                       For general inquiries, the contact form on this page is the best option. For urgent matters,
-                      please email us directly at support@momentum.ai.
+                      please email us directly at support@ElevatrLabs.com.
                     </p>
                   </div>
 

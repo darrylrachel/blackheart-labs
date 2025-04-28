@@ -12,7 +12,7 @@ export default function AboutPage() {
         {/* Hero Section */}
         <AnimationWrapper>
           <div className="text-center mb-16">
-            <h1 className="text-4xl md:text-5xl font-bold text-charcoal mb-4">About MomentumAI</h1>
+            <h1 className="text-4xl md:text-5xl font-bold text-charcoal mb-4">About Elevatr Labs</h1>
             <p className="text-text-secondary text-lg max-w-2xl mx-auto">
               Helping solopreneurs navigate the AI landscape and build more efficient businesses
             </p>
@@ -27,7 +27,7 @@ export default function AboutPage() {
                 <div className="relative rounded-xl overflow-hidden aspect-square">
                   <Image
                     src="/modern-innovator.png"
-                    alt="Alex Mitchell - Founder of MomentumAI"
+                    alt="Alex Mitchell - Founder of Elevatr Labs"
                     fill
                     className="object-cover"
                     sizes="(max-width: 768px) 100vw, 400px"
@@ -54,7 +54,7 @@ export default function AboutPage() {
                     className="flex items-center text-text-secondary hover:text-electric-blue transition-colors"
                   >
                     <Twitter className="h-5 w-5 mr-2" />
-                    <span>@momentumai</span>
+                    <span>@ElevatrLabs</span>
                   </a>
                   <a
                     href="https://linkedin.com"
@@ -66,11 +66,11 @@ export default function AboutPage() {
                     <span>Darryl Rachel</span>
                   </a>
                   <a
-                    href="mailto:hello@momentumai.com"
+                    href="mailto:hello@Elevatr Labs.com"
                     className="flex items-center text-text-secondary hover:text-electric-blue transition-colors"
                   >
                     <Mail className="h-5 w-5 mr-2" />
-                    <span>hello@momentumai.com</span>
+                    <span>hello@ElevatrLabs.com</span>
                   </a>
                 </div>
 
@@ -90,7 +90,7 @@ export default function AboutPage() {
             <div className="max-w-3xl mx-auto text-center">
               <h2 className="text-3xl font-bold text-charcoal mb-6">Our Mission</h2>
               <p className="text-text-secondary text-lg mb-0">
-                At MomentumAI, we believe that AI should be accessible to everyone, not just big corporations. Our
+                At Elevatr Labs, we believe that AI should be accessible to everyone, not just big corporations. Our
                 mission is to demystify AI tools and help solopreneurs implement practical solutions that save time,
                 increase revenue, and create sustainable businesses without requiring technical expertise or large
                 teams.
@@ -215,7 +215,7 @@ export default function AboutPage() {
             <h2 className="text-3xl font-bold text-charcoal mb-6 text-center">Our Story</h2>
             <div className="prose prose-lg max-w-none text-text-secondary">
               <p>
-                MomentumAI started in 2023 when I realized that most AI content was either too technical for the
+                Elevatr Labs started in 2023 when I realized that most AI content was either too technical for the
                 average business owner or focused on enterprise solutions that weren't practical for solopreneurs.
               </p>
               <p>
@@ -228,7 +228,7 @@ export default function AboutPage() {
                 implementation guides, and a thriving community of forward-thinking solopreneurs.
               </p>
               <p>
-                Today, MomentumAI helps thousands of solopreneurs work smarter, not harder, by leveraging the right
+                Today, Elevatr Labs helps thousands of solopreneurs work smarter, not harder, by leveraging the right
                 AI tools for their specific needs.
               </p>
             </div>

@@ -10,14 +10,14 @@ import ParticleBackground from "@/components/particle-background"
 const inter = Inter({ subsets: ["latin"], display: "swap" })
 
 export const metadata: Metadata = {
-  title: "MomentumAI | AI Tools for Solopreneurs",
+  title: "Elevatr Labs | AI Tools for Solopreneurs",
   description:
     "Helping solopreneurs discover the best AI tools to automate, scale, and thrive with actionable guides and honest reviews.",
   openGraph: {
-    title: "MomentumAI | AI Tools for Solopreneurs",
+    title: "Elevatr Labs | AI Tools for Solopreneurs",
     description: "Work smarter, not harder. The best AI tools for solo entrepreneurs in one place.",
     type: "website",
-    url: "https://momentum.ai",
+    url: "https://elevatrlabs.com",
   },
     generator: 'v0.dev'
 }

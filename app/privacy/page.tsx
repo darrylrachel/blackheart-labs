@@ -22,7 +22,7 @@ export default function PrivacyPolicyPage() {
               <p className="text-lg">Last Updated: April 26, 2025</p>
 
               <p>
-                At MomentumAI, we take your privacy seriously. This Privacy Policy explains how we collect, use,
+                At Elevatr Labs, we take your privacy seriously. This Privacy Policy explains how we collect, use,
                 disclose, and safeguard your information when you visit our website or use our services.
               </p>
 
@@ -137,12 +137,12 @@ export default function PrivacyPolicyPage() {
               <p>If you have any questions about this Privacy Policy, please contact us at:</p>
               <p className="mb-1">
                 Email:{" "}
-                <a href="mailto:privacy@blackheartlabs.com" className="text-electric-blue">
-                  privacy@blackheartlabs.com
+                <a href="mailto:privacy@ElevatrLabs.com" className="text-electric-blue">
+                  privacy@ElevatrLabs.com
                 </a>
               </p>
               <p>
-                MomentumAI
+                Elevatr Labs
                 <br />
                 123 AI Avenue
                 <br />
